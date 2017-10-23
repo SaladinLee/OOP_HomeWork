@@ -1,0 +1,8 @@
+C:\OOP_HomeWork\OOP_Lib\bin\Debug\OOP_Lib.dll
+C:\OOP_HomeWork\OOP_Lib\bin\Debug\OOP_Lib.pdb
+C:\OOP_HomeWork\OOP_Lib\bin\Debug\Newtonsoft.Json.dll
+C:\OOP_HomeWork\OOP_Lib\bin\Debug\Newtonsoft.Json.xml
+C:\OOP_HomeWork\OOP_Lib\obj\Debug\OOP_Lib.csprojResolveAssemblyReference.cache
+C:\OOP_HomeWork\OOP_Lib\obj\Debug\OOP_Lib.csproj.CoreCompileInputs.cache
+C:\OOP_HomeWork\OOP_Lib\obj\Debug\OOP_Lib.dll
+C:\OOP_HomeWork\OOP_Lib\obj\Debug\OOP_Lib.pdb

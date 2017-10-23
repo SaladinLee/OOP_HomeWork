@@ -1,0 +1,14 @@
+C:\OOP_HomeWork\OOP\bin\Debug\OOP.exe.config
+C:\OOP_HomeWork\OOP\bin\Debug\OOP.exe
+C:\OOP_HomeWork\OOP\bin\Debug\OOP.pdb
+C:\OOP_HomeWork\OOP\bin\Debug\OOP_Lib.dll
+C:\OOP_HomeWork\OOP\bin\Debug\Newtonsoft.Json.dll
+C:\OOP_HomeWork\OOP\bin\Debug\OOP_Lib.pdb
+C:\OOP_HomeWork\OOP\bin\Debug\Newtonsoft.Json.xml
+C:\OOP_HomeWork\OOP\obj\Debug\OOP.csprojResolveAssemblyReference.cache
+C:\OOP_HomeWork\OOP\obj\Debug\OOP.FrmOOP.resources
+C:\OOP_HomeWork\OOP\obj\Debug\OOP.Properties.Resources.resources
+C:\OOP_HomeWork\OOP\obj\Debug\OOP.csproj.GenerateResource.Cache
+C:\OOP_HomeWork\OOP\obj\Debug\OOP.csproj.CoreCompileInputs.cache
+C:\OOP_HomeWork\OOP\obj\Debug\OOP.exe
+C:\OOP_HomeWork\OOP\obj\Debug\OOP.pdb
